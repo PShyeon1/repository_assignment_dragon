@@ -1,3 +1,5 @@
+//브랜치 결합 테스트
+
 // C program for Merge Sort
 #include <stdio.h>
 #include <stdlib.h>
